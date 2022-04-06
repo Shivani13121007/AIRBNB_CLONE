@@ -1,0 +1,10 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "plaintext": "html"
+  },
+
+  "emmet.excludeLanguages": ["markdown"],
+  "tailwindCSS.experimental.classRegex": [],
+  "tailwindCSS.emmetCompletions": true
+}
